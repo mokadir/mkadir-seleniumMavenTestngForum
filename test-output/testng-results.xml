@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T18:44:56 EDT" name="Suite" finished-at="2024-04-08T18:45:19 EDT" duration-ms="22277">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T18:44:56 EDT" name="forumDigitalpointTest" finished-at="2024-04-08T18:45:19 EDT" duration-ms="22277">
+      <class name="testCases.T02_LoginPageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCases.T02_LoginPageValidation@235834f2]" started-at="2024-04-08T18:45:02 EDT" name="openBrowser" finished-at="2024-04-08T18:45:03 EDT" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="loginPageTest()[pri:0, instance:testCases.T02_LoginPageValidation@235834f2]" started-at="2024-04-08T18:45:03 EDT" name="loginPageTest" finished-at="2024-04-08T18:45:07 EDT" duration-ms="3464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.T02_LoginPageValidation@235834f2]" started-at="2024-04-08T18:45:07 EDT" name="tearDown" finished-at="2024-04-08T18:45:10 EDT" duration-ms="3236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.T02_LoginPageValidation -->
+      <class name="testCases.T03_RegistrationPageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCases.T03_RegistrationPageValidation@5656be13]" started-at="2024-04-08T18:45:10 EDT" name="openBrowser" finished-at="2024-04-08T18:45:11 EDT" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="registrationPageTest()[pri:0, instance:testCases.T03_RegistrationPageValidation@5656be13]" started-at="2024-04-08T18:45:11 EDT" name="registrationPageTest" finished-at="2024-04-08T18:45:16 EDT" duration-ms="4602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.T03_RegistrationPageValidation@5656be13]" started-at="2024-04-08T18:45:16 EDT" name="tearDown" finished-at="2024-04-08T18:45:19 EDT" duration-ms="3061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.T03_RegistrationPageValidation -->
+      <class name="testCases.T01_HomePageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testCases.T01_HomePageValidation@1b7cc17c]" started-at="2024-04-08T18:44:56 EDT" name="openBrowser" finished-at="2024-04-08T18:44:58 EDT" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="homePageTest()[pri:0, instance:testCases.T01_HomePageValidation@1b7cc17c]" started-at="2024-04-08T18:44:58 EDT" name="homePageTest" finished-at="2024-04-08T18:44:59 EDT" duration-ms="1665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.T01_HomePageValidation@1b7cc17c]" started-at="2024-04-08T18:44:59 EDT" name="tearDown" finished-at="2024-04-08T18:45:02 EDT" duration-ms="3206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.T01_HomePageValidation -->
+    </test> <!-- forumDigitalpointTest -->
+  </suite> <!-- Suite -->
+</testng-results>
